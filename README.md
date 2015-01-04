@@ -1,4 +1,5 @@
-caesarcipher
+Aplikasi Kriptografi
 ============
 
-Enkrip+Dekrip
+- Menggunakan algoritma caesar cipher
+- Fitur: enkripsi dan dekripsi teks dr inputan file *.txt
